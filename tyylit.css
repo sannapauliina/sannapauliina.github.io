@@ -1,0 +1,20 @@
+body {background-color: bisque;}
+h1 {
+    color:rgb(99, 45, 45);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+h2,h3 {color: rgb(99, 45, 45);
+
+}
+p {
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+[target] {color: brown;}
+
+[href$="html"] {color: black;}
+
+[href^="https"] {color: black;}
